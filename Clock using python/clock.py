@@ -1,3 +1,6 @@
+#author @akshaypiranav-github
+#author @akshaypiranav-instagram
+
 from tkinter import Tk,Label
 from time import strftime
 root=Tk()
